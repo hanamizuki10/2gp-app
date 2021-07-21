@@ -1,0 +1,44 @@
+{
+    "packageDirectories": [
+        {
+            "path": "sfdx-src/managed",
+            "default": true,
+            "package": "2GP APP Hanamizuki",
+            "versionName": "ver 0.4",
+            "versionNumber": "0.4.0.NEXT",
+            "ancestorId": "2GP APP Hanamizuki@0.3.0-1",
+            "unpackagedMetadata": {
+                "path": "sfdx-src/unmanaged"
+            }
+        },
+        {
+            "path": "sfdx-src/unmanaged",
+            "package": "2GP Unmanaged APP Hanamizuki",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
+        },
+        {
+            "path": "sfdx-src/unmanaged2",
+            "default": false
+        }
+    ],
+    "name": "2gp-app",
+    "namespace": "hanamizuki_dev1",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "52.0",
+    "packageAliases": {
+        "2GP APP Hanamizuki": "0Ho5h000000TN7ECAW",
+        "2GP APP Hanamizuki@0.1.0-1": "04t5h0000001KO1AAM",
+        "2GP Unmanaged APP Hanamizuki": "0Ho5h000000TN7JCAW",
+        "2GP APP Hanamizuki@0.1.0-2": "04t5h0000001Ms0AAE",
+        "2GP APP Hanamizuki@0.1.0-3": "04t5h0000001MsPAAU",
+        "2GP APP Hanamizuki@0.2.0-1": "04t5h0000001NLsAAM",
+        "2GP APP Hanamizuki@0.2.0-2": "04t5h0000001NLxAAM",
+        "2GP APP Hanamizuki@0.3.0-1": "04t5h0000001NM2AAM",
+        "2GP APP Hanamizuki@0.3.0-2": "04t5h0000001OR4AAM",
+        "2GP APP Hanamizuki@0.3.0-3": "04t5h0000001OR9AAM",
+        "2GP APP Hanamizuki@0.4.0-1": "04t5h0000001OROAA2",
+        "2GP APP Hanamizuki@0.4.0-2": "04t5h0000001ORTAA2"
+    }
+}
